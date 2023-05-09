@@ -25,4 +25,3 @@ jobs:
       - name: npm unit test
         shell: bash
         run: npm run test
-
